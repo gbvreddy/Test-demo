@@ -1,2 +1,4 @@
 git wfhnWNG
  cx bvzmgb 
+
+git merge
