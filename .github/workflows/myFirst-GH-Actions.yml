@@ -1,6 +1,6 @@
 name : My first GH Actions
 
-on :[push]
+on: [push]
 
 jobs:
   build:
